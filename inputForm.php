@@ -1,7 +1,7 @@
 <?php
 /* Attempt MySQL server connection. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-header('X-Frame-Options: ALLOW-FROM https://codepen.io/');
+header('X-Frame-Options: ALLOW-FROM https://toshihaku.jcink.net/');
 
 $link = mysqli_connect("remotemysql.com", "Iqgq6u0w7N", "Dwpr5gYLlQ", "Iqgq6u0w7N");
  
